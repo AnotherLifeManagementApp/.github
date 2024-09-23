@@ -2,7 +2,7 @@ AnotherLifeManagementApp (ALMA) is a small attempt at fixing our lifes since we 
 Since we can not be bothered to remember everything or pay like 50000000€ a day for all needed subscriptions we rather spend way too long building our own stuff.
 
 Planned use of the following Technologies:
-Angular: Frontend
-Python/Flask: Backend/Api
-Postgres SQL: Database
-Management: Docker
+- Angular: Frontend
+- Python/Flask: Backend/Api
+- Postgres SQL: Database
+- Management: Docker
